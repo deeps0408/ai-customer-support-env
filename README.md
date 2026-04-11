@@ -1,3 +1,11 @@
+title: open env project
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_file: main.py
+pinned: true
+
 # 🎯 AI Customer Support Training Environment
 
 > An **OpenEnv-compliant reinforcement-learning environment** that trains AI agents to resolve real-world customer support issues — from issue classification to full multi-turn resolution.
@@ -403,3 +411,5 @@ Produced by `inference.py` with `MODEL_NAME=gpt-4o-mini`:
 ## 📄 License
 
 MIT License — see `LICENSE` for details.
+# openenv-project
+A Dockerized environment for training AI agents in realistic customer support scenarios, using Docker and focused on task resolution.
